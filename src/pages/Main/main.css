@@ -1,1 +1,30 @@
-
+.main_page {
+    font-family: nudista-web,Helvetica,Arial,sans-serif;
+}
+h1.info_header {
+    -webkit-text-size-adjust: 100%;
+    letter-spacing: .02em;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    text-align: center;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    font-size: 32px;
+    color: #ac182e;
+    font-weight: 700;
+    line-height: 1.2;
+    -webkit-font-smoothing: antialiased;
+    font-family: nudista-web,Helvetica,Arial,sans-serif;
+    margin: 0;
+}
+h1#site_info {
+    margin: 2rem 1rem;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: none !important;
+}
+#carousel_img {
+    width: auto;
+    height: 400px;
+    object-fit: contain;
+}
