@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, Row, Carousel, CardDeck, Card } from 'react-bootstrap';
+import { Col, Container, Row, CardDeck, Card } from 'react-bootstrap';
 import Code from '../../images/Code.png';
 import Serv from '../../images/Server Rack.png';
 import VMwr from '../../images/VMware.png';

@@ -1,9 +1,16 @@
 import React from 'react';
+import { Container, Row, Col } from 'react-bootstrap';
 
 const About = () => {
     return (
         <div> 
-            <p>This is the about page. </p>
+            <Container>
+                <Row>
+                    <Col>
+                    
+                    </Col>
+                </Row>
+            </Container>
         </div>
     )
 }

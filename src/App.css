@@ -7,3 +7,17 @@ p.intro {
   line-height: 2.5;
   text-transform: uppercase;
 }
+.card_info {
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+  color: #383838;
+  font-family: nudista-web,Helvetica,Arial,sans-serif;
+  letter-spacing: .02em;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin: 0 0 20px 0;
+  text-transform: none;
+}
