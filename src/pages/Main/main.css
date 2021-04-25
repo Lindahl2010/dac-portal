@@ -28,3 +28,20 @@ h1#site_info {
     height: 400px;
     object-fit: contain;
 }
+.card_info {
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
+    color: #383838;
+    font-family: nudista-web,Helvetica,Arial,sans-serif;
+    letter-spacing: .02em;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    -webkit-font-smoothing: antialiased;
+    font-size: 15px;
+    line-height: 1.5em;
+    margin: 0 0 20px 0;
+    text-transform: none;
+}
+.card-title {
+    font-weight: bold !important;
+}
